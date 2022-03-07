@@ -16,10 +16,25 @@ Here goes your awesome project description!
 
 ## Features
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+User
+•Login
+•Logout
+•View the employee home page
+•Submit a reimbursement request
+•View pending reimbursement requests
+•View resolved reimbursement requests
+•View my account information
+•Update account information
+
+Manager
+•Login
+•Logout
+•View the manager home page
+•Approve/Deny pending reimbursement requests
+•View all pending requests of all employees
+•View all resolved requests of all employees
+•View reimbursement requests of a specific employee
+•View all employees
 
 To-do list:
 * Wow improvement to be done 1
@@ -43,3 +58,4 @@ To-do list:
 
 * Isaiah Payne
 * Selamawi Kahsai
+* Jeremiah Grimes
