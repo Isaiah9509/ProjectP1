@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Here goes your awesome project description!
+The Expense Reimbursement System (ERS) manages the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Managers can login and view all reimbursement requests and past history for all employees in the company. Managers are authorized to approve and deny requests for expense reimbursement.
 
 ## Technologies Used
 
@@ -11,8 +11,10 @@ Here goes your awesome project description!
 * Javalin
 * Google Cloud compute engine
 * Google Cloud storage bucket
+* Docker
 * JavaScript
 * AJAX
+* Log4J, JUnit
 
 ## Features
 
@@ -37,25 +39,27 @@ Manager
 •View all employees
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Encrypted password
+* Upload document functionality
+* More styling
 
-## Getting Started
-   
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-- All the `code` required to get started
-- Images of what it should look like
-
-## Usage
-
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
 ## Contributors
 
 * Isaiah Payne
 * Selamawi Kahsai
 * Jeremiah Grimes
+
+## Roles & Responsibilties
+
+* Isaish Payne:
+   -Team Leader
+   - Contributed to all aspects of project and fulfilling User Story
+   
+* Selamawi Kahsai:
+   - Contributed to all aspects of project and fulfilling User Story
+   
+* Jeremiah Grimes:
+   - Docker setup
+   - GCP setup, hosting Docker container on VM 
+   - Contributed to all aspects of project and fulfilling User Story
